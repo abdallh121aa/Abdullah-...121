@@ -1,0 +1,35 @@
+2022-07-25T20:05:46.3077517Z Current runner version: '2.294.0'
+2022-07-25T20:05:46.3107297Z ##[group]Operating System
+2022-07-25T20:05:46.3107846Z Ubuntu
+2022-07-25T20:05:46.3108286Z 20.04.4
+2022-07-25T20:05:46.3108590Z LTS
+2022-07-25T20:05:46.3108844Z ##[endgroup]
+2022-07-25T20:05:46.3109181Z ##[group]Virtual Environment
+2022-07-25T20:05:46.3109561Z Environment: ubuntu-20.04
+2022-07-25T20:05:46.3109901Z Version: 20220717.1
+2022-07-25T20:05:46.3110449Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu20/20220717.1/images/linux/Ubuntu2004-Readme.md
+2022-07-25T20:05:46.3111129Z Image Release: https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20220717.1
+2022-07-25T20:05:46.3111596Z ##[endgroup]
+2022-07-25T20:05:46.3111910Z ##[group]Virtual Environment Provisioner
+2022-07-25T20:05:46.3112336Z 1.0.0.0-main-20220701-2
+2022-07-25T20:05:46.3112656Z ##[endgroup]
+2022-07-25T20:05:46.3113579Z ##[group]GITHUB_TOKEN Permissions
+2022-07-25T20:05:46.3114172Z Actions: read
+2022-07-25T20:05:46.3114550Z Checks: read
+2022-07-25T20:05:46.3115069Z Contents: read
+2022-07-25T20:05:46.3115396Z Deployments: read
+2022-07-25T20:05:46.3115785Z Discussions: read
+2022-07-25T20:05:46.3116111Z Issues: read
+2022-07-25T20:05:46.3116373Z Metadata: read
+2022-07-25T20:05:46.3116698Z Packages: read
+2022-07-25T20:05:46.3117010Z Pages: read
+2022-07-25T20:05:46.3117332Z PullRequests: read
+2022-07-25T20:05:46.3117690Z RepositoryProjects: read
+2022-07-25T20:05:46.3118051Z SecurityEvents: read
+2022-07-25T20:05:46.3118335Z Statuses: read
+2022-07-25T20:05:46.3118666Z ##[endgroup]
+2022-07-25T20:05:46.3122435Z Secret source: None
+2022-07-25T20:05:46.3122907Z Prepare workflow directory
+2022-07-25T20:05:46.4100555Z Prepare all required actions
+2022-07-25T20:05:46.4287994Z Getting action download info
+2022-07-25T20:05:46.6654458Z Download action repository 'actions/checkout@v3' (SHA:2541b1294d2704b0964813337f33b291d3f8596b)
