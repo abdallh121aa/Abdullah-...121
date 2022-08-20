@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editorAssociations": {
+        "*.pot": "default",
+        "*.numbers": "default",
+        "*.zip": "default",
+        "*.supp": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.sideBar.location": "right",
+    "[xml]": {    },
+    "grunt.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "python.defaultInterpreterPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "code-text-binary": true
+    },
+    "workbench.statusBar.visible": false,
+    "docker.networks.label": "NetworkDriver",
+    "docker.images.label": "CreatedTime",
+    "timeline.excludeSources": [],
+    "workbench.editor.enablePreview": false,
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "workbench.productIconTheme": "bootstrap-product-icons",
+    "codestream.serverUrl": "https://api.codestream.com"
+}

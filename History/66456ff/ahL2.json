@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editorAssociations": {
+        "*.pot": "default",
+        "*.numbers": "default",
+        "*.zip": "default",
+        "*.supp": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.sideBar.location": "right",
+    "[xml]": {
+        //www.icloud.com/numbers/0f5VddhfzxXa8jJhttps://www.icloud.com/numbers/0f5VddhfzxXa8jJoQ_8vkpb3A#block-patternsoQ_8vkpb3A#block-patterns
+    },
+    "grunt.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "python.defaultInterpreterPath": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "code-text-binary": true
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.editor.enablePreview": false,
+    "docker.networks.label": "NetworkDriver",
+    "docker.images.label": "CreatedTime"
+}

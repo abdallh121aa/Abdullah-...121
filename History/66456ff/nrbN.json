@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "workbench.editorAssociations": {
+        "*.pot": "default",
+        "*.numbers": "default",
+        "*.zip": "default",
+        "*.supp": "default",
+        "*.dmg": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.sideBar.location": "right",
+    "[xml]": {
+        //www.icloud.com/numbers/0f5VddhfzxXa8jJhttps://www.icloud.com/numbers/0f5VddhfzxXa8jJoQ_8vkpb3A#block-patternsoQ_8vkpb3A#block-patterns
+    },
+    "grunt.autoDetect": "on",
+    "jake.autoDetect": "on",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "code-text-binary": true
+    },
+    "workbench.statusBar.visible": false,
+    "docker.networks.label": "CreatedTime",
+    "docker.images.label": "Size",
+    "timeline.excludeSources": [],
+    "workbench.editor.enablePreview": false,
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "workbench.productIconTheme": "bootstrap-product-icons",
+    "codestream.serverUrl": "https://api.codestream.com",
+    "codestream.email": "bdalhalfha@gmail.com",
+    "docker.containers.label": "Compose Project Name",
+    "docker.contexts.label": "Description",
+    "git.autofetch": true
+}
